@@ -7,17 +7,11 @@
     "build": "node esbuild.cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alishykh2/release-action.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alishykh2/release-action.git/issues"
-  },
-  "homepage": "https://github.com/alishykh2/release-action.git#readme",
+  
   "dependencies": {
     "@actions/core": "1.10.0"
   },
